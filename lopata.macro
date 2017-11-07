@@ -1,0 +1,14 @@
+!Loop
+Assistant.Macros.ForAction|4
+Assistant.Macros.DoubleClickTypeAction|3897|True
+Assistant.Macros.WaitForTargetAction|2
+Assistant.Macros.TargetRelLocAction|0|0
+Assistant.Macros.PauseAction|00:00:03.1110000
+Assistant.Macros.SpeechAction|0|52|3|ENG|0|.lecz
+Assistant.Macros.EndForAction
+Assistant.Macros.UseSkillAction|1
+Assistant.Macros.WaitForTargetAction|1
+Assistant.Macros.AbsoluteTargetAction|0|0|3844149|3774|1311|0|401
+Assistant.Macros.DoubleClickTypeAction|3616|True
+Assistant.Macros.WaitForTargetAction|1
+Assistant.Macros.AbsoluteTargetAction|1|0|0|3776|1318|-5|6042

@@ -1,0 +1,5 @@
+!Loop
+Assistant.Macros.IfAction|1|0|49
+Assistant.Macros.UseSkillAction|46
+Assistant.Macros.ElseAction
+Assistant.Macros.MacroCastSpellAction|57

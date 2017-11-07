@@ -1,0 +1,6 @@
+!Loop
+Assistant.Macros.IfAction|1|0|10
+Assistant.Macros.PauseAction|00:00:00.5550000
+Assistant.Macros.DoubleClickTypeAction|3836|True
+Assistant.Macros.EndIfAction
+Assistant.Macros.MacroCastSpellAction|29

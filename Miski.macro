@@ -1,0 +1,5 @@
+Assistant.Macros.MacroCastSpellAction|40
+Assistant.Macros.WaitForTargetAction|30
+Assistant.Macros.HotKeyAction|1059|
+Assistant.Macros.WaitForGumpAction|6440621|False|300
+Assistant.Macros.GumpResponseAction|31|0|0

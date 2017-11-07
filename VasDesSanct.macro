@@ -1,0 +1,14 @@
+Assistant.Macros.MacroCastSpellAction|10
+Assistant.Macros.WaitForTargetAction|30
+Assistant.Macros.HotKeyAction|1059|
+Assistant.Macros.PauseAction|00:00:00.3330000
+Assistant.Macros.IfAction|1|1|20
+Assistant.Macros.MacroCastSpellAction|46
+Assistant.Macros.WaitForTargetAction|30
+Assistant.Macros.HotKeyAction|1059|
+Assistant.Macros.ElseAction
+Assistant.Macros.UseSkillAction|46
+Assistant.Macros.PauseAction|00:00:02.5550000
+Assistant.Macros.WaitForStatAction|1|1|130|3600
+Assistant.Macros.PauseAction|00:00:01.1110000
+Assistant.Macros.EndIfAction
